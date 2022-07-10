@@ -1,0 +1,98 @@
+.side-scroll {
+  background-color: #000000;
+}
+
+.side-scroll .profile-section {
+  background-color: #2d2d38;
+  margin-top: 15px;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.side-scroll .profile-section .name {
+  color: #FFFFFF;
+  font-size: 24px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.side-scroll .profile-section .profile-image {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+}
+
+.side-scroll .categories {
+  background-color: #2d2d38;
+  margin-top: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.side-scroll .personal-info {
+  background-color: #2d2d38;
+  margin-top: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+
+
+}
+
+.side-scroll .personal-info p {
+  color: #FFFFFF;
+  margin-left: 15px;
+  font-size: 18px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.side-scroll .spoken-languages {
+  background-color: #2d2d38;
+  margin-top: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.side-scroll .spoken-languages p {
+  color: #FFFFFF;
+  margin-left: 15px;
+  font-size: 18px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.side-scroll .coding-languages {
+  background-color: #2d2d38;
+  margin-top: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+}
+
+.side-scroll .coding-languages p {
+  color: #FFFFFF;
+  margin-left: 15px;
+  font-size: 18px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.side-scroll .section {
+  border-radius: 10px;
+}
+
+.side-scroll a {
+  color: #FFFFFF;
+}
+
+.side-scroll .coding-languages .purple {
+  background-color: #7e55bd;
+}
+
+.side-scroll .progress {
+  margin-left: 15px;
+  margin-right: 15px;
+  font-size: 10px;
+  line-height: 15px;
+  height: 20px
+}
