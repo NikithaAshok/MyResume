@@ -1,5 +1,7 @@
 .side-scroll {
   background-color: #000000;
+  border-right: 1px solid gray;
+  height: inherit;
 }
 
 .side-scroll .profile-section {
@@ -45,6 +47,7 @@
   color: #FFFFFF;
   margin-left: 15px;
   font-size: 18px;
+  font-weight: bold;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -59,6 +62,7 @@
   color: #FFFFFF;
   margin-left: 15px;
   font-size: 18px;
+  font-weight: bold;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 

@@ -1,12 +1,24 @@
-.main-content {
-    text-align: center;
+body {
+    background-color: black;
 }
 
-.main-content .intro-section {
+.row.content {
+    height: 1440px;
+}
+
+.main-content {
+    text-align: center;
+    color: white;
+    height: inherit;
+}
+
+.main-content .intro-section{
     width: 50%;
-    margin: 0 auto;
+    margin: 150px auto 0;
+    padding-left: 60px;
     text-align: left;
 }
+
 .main-content .intro-section h1 {
     font-size: 150px;
     font-weight: bold;
@@ -16,4 +28,65 @@
     padding-left: 5px;
     font-size: 24px;
     width: 80%;
+}
+
+/* Skill CSS */
+
+.main-content .coding-languages .skills .skill {
+    margin: 40px 0;
+}
+
+.main-content .coding-languages .skills .skill img {
+    display: none;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.main-content .coding-languages .skills .skill .glyphicon {
+    font-size: 70px;
+}
+
+
+/* Profile CSS */
+
+.main-content .profile-section {
+    text-align: left;
+    padding: 20px 40px;
+}
+
+.main-content .profile-section h2 {
+    font-size: 90px;
+}
+
+.main-content .profile-section p {
+    font-size: 24px;
+}
+
+/* Experience CSS */
+
+.main-content .experience {
+    text-align: left;
+    padding: 20px 40px;
+}
+
+.main-content .experience h2 {
+    font-size: 90px;
+}
+
+.main-content .experience p {
+    font-size: 24px;
+}
+
+/* Contact Us CSS */
+
+.main-content .first-row {
+    width: 20%;
+    margin: 40px auto;
+}
+
+.main-content .second-row {
+    width: 50%;
+    margin: 50px auto;
 }
