@@ -58,6 +58,13 @@
   padding-bottom: 15px;
 }
 
+.side-scroll .spoken-languages .slanguages li {
+  margin-right: 10px;
+  color: #FFFFFF;  
+  font-size: 14px;
+  padding: 10px 15px;
+}
+
 .side-scroll .spoken-languages p {
   color: #FFFFFF;
   margin-left: 15px;
